@@ -1,8 +1,13 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter  
 
 == Teaching
-- TA of COMPSCI201 (Intro to Programming & Data Structures), Duke Kunshan Univ., Spring 2020.
-- TA of INFO230025 (Design of Analog CMOS integrated Circuits), Fudan Univ., Fall 2019.
+- TA of COMPSCI201 (Intro to Programming & Data Structures)\n
+Instructor: Dr. [https://www.cs.duke.edu/people/faculty/300 Dennis Quan] \n
+Duke Kunshan Univ., Spring 2020 \n
+
+- TA of INFO230025 (Design of Analog CMOS integrated Circuits) \n
+Instructor: Dr. Jun Xu \n
+Fudan Univ., Fall 2019 \n
 
 == Selected Talks
 - "*Bayesian Inference on Introduced General Region: An Efficient Parametric Yield Estimation Method for Integrated Circuits*" \n
