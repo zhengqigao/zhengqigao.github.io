@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
-=Publications
+== Publications
 
 - Bayesian Inference on Introduced General Region: An Efficient Parametric Yield Estimation Method for Integrated Circuits \n
 *Zhengqi Gao*, Zihao Chen, Jun Tao, Yangfeng Sun, Dian Zhou, and Xuan Zeng \n
@@ -25,7 +25,13 @@ Jiahe Shi, *Zhengqi Gao*, Jun Tao, Yangfeng Su, Dian Zhou, and Xuan Zeng \n
 *Zhengqi Gao*, Jun Tao, Dian Zhou and Xuan Zeng \n
 / IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD)
 
+- [https://ieeexplore.ieee.org/document/8565038 Efficient Statistical Analysis for Correlated Rare Failure Events] \n
+Jun Tao, *Zhengqi Gao*, Dian Zhou and Xuan Zeng \n
+/ IEEE International Conference on Solid-State and Integrated Circuit Technology/ (ICSICT 2018) \n
 
+== Preprints
 
-
+- [https://arxiv.org/abs/2001.07072 Projection based active Gaussian process regression for Pareto Front modeling] \n
+*Zhengqi Gao*, Juan Tao, Yangfeng Su, Dian Zhou, and Xuan Zeng\n 
+/ Arxiv Preprint/ \n
 
