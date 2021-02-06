@@ -3,11 +3,11 @@
 
 - Bayesian Inference on Introduced General Region: An Efficient Parametric Yield Estimation Method for Integrated Circuits \n
 *Zhengqi Gao*, Zihao Chen, Jun Tao, Yangfeng Sun, Dian Zhou, and Xuan Zeng \n
-/ IEEE//ACM Asia and South Pacific Design Automation Conference/ (ASPDAC 2021) \n
+/ IEEE\/ACM Asia and South Pacific Design Automation Conference/ (ASPDAC 2021) \n
 
 - [https://ieeexplore.ieee.org/document/9218696 Exploring a Bayesian Optimization Framework Compatible with Digital Standard Flow for Soft-Error-Tolerant Circuit] \n
 Yan Li, Xiaoyoung Zeng, *Zhengqi Gao*, Liyu Lin, Jun Tao, Jun Han, Xu Cheng, Mehdi Tahoori, and Xiaoyang Zeng \n
-/ IEEE//ACM Design Automation Conference/ (DAC 2020) \n
+/ IEEE\/ACM Design Automation Conference/ (DAC 2020) \n
 
 - [https://ieeexplore.ieee.org/document/9180517 Multi-Corner Parametric Yield Estimation via Bayesian Inference on Bernoulli Distribution with Conjugate Prior] \n
 Jiahe Shi, *Zhengqi Gao*, Jun Tao, Yangfeng Su, Dian Zhou, and Xuan Zeng \n
@@ -19,7 +19,7 @@ Jiahe Shi, *Zhengqi Gao*, Jun Tao, Yangfeng Su, Dian Zhou, and Xuan Zeng \n
 
 - [https://ieeexplore.ieee.org/document/8942174 Efficient Performance Trade-off Modeling for analog circuit based on Bayesian Neural Network]  \n
 *Zhengqi Gao*, Jun Tao, Fan Yang, Yangfeng Su, Dian Zhou and Xuan Zeng \n
-\ IEEE/ACM International Conference on Computer Aided Design\ (ICCAD 2019)
+\ IEEE\/ACM International Conference on Computer Aided Design\ (ICCAD 2019)
 
 -  [https://ieeexplore.ieee.org/document/8832253 Efficient Parametric Yield Estimation over Multiple Process Corners via Bayesian Inference based on Bernoulli Distribution] \n
 *Zhengqi Gao*, Jun Tao, Dian Zhou and Xuan Zeng \n
