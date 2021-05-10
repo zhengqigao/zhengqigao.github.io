@@ -18,7 +18,7 @@ Check out my original [https://github.com/zhengqigao/PRML-Solution-Manual soluti
 ~~~
 
 == News
-- May, 2021: Work done with Dr. Ron Rohrer is accepted in IEEE TCAD (coming soon)! Now we could calculate yield in a non-MC way.
+- May, 2021: Work done with Dr. Ron Rohrer is accepted in IEEE TCAD (coming soon)! We provide a non-MC yield estimation method based on the adjoint circuit.
 - Apr, 2021: My new trial in the area of computer vision: see our MKE work on [https://arxiv.org/abs/2103.14431 arxiv].
 - Mar, 2021: I am "randomly" visiting Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao]'s lab at Shanghai Qi 
 Zhi Insititute (affliated with IIIS, Tsinghua Univ.).
