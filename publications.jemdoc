@@ -2,6 +2,10 @@
 
 == Publications
 
+- [https://arxiv.org/abs/2103.14431 Multimodal Knowledge Expansion] \n
+Zihui Xue, Sucheng Ren, *Zhengqi Gao*, and Hang Zhao \n
+/ International Conference on Computer Vision/ (ICCV 2021) \n
+
 - [https://ieeexplore.ieee.org/document/9428031/ Efficient Non-Monte-Carlo Yield Estimation] \n
 *Zhengqi Gao* and Ron Rohrer \n
 / IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD)
@@ -38,10 +42,6 @@ Jun Tao, *Zhengqi Gao*, Dian Zhou, and Xuan Zeng \n
 
 - [https://arxiv.org/abs/2106.12378 Co-advise: Cross Inductive Bias Distillation] \n
 Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, Hang Zhao\n
-/ Arxiv Preprint/ \n
-
-- [https://arxiv.org/abs/2103.14431 Multimodal Knowledge Expansion] \n
-Zihui Xue, Sucheng Ren, *Zhengqi Gao*, and Hang Zhao \n
 / Arxiv Preprint/ \n
 
 - [https://arxiv.org/abs/2001.07072 Projection based Active Gaussian Process Regression for Pareto Front Modeling] \n
