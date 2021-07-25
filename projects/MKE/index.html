@@ -1,0 +1,177 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" class="gr__shape2prog_csail_mit_edu"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+        <script src="./head.js"></script>        <meta name="viewport" content="width=device-width, initial-scale=1">    <link rel="shortcut icon" href="http://shape2prog.csail.mit.edu/images/favicon.ico">
+        <meta name="description" content="What makes for good views for contrastive learning">
+        <meta name="keywords" content="MIT,Contrastive Learning,Views,Unsupervised Learning,Transfer Learning">
+
+        <title>MKE</title>
+        <link rel="stylesheet" href="./font.css">
+        <link rel="stylesheet" href="./main.css">
+
+    </head>
+
+    <body data-gr-c-s-loaded="true">
+
+        <div class="outercontainer">
+            <div class="container">
+
+                <div class="content project_title">
+                    <h1>Multimodal Knowledge  Expansion</h1>
+                </div>
+
+                <div class="content project_headline">
+                    <center><h2>
+
+                      <font size="3"><a href="https://sherryxzh.github.io/">Zihui Xue</a><sup>1,2</sup></font>&nbsp;&nbsp;
+                      <font size="3"><a href="https://scholar.google.com/citations?user=Hbf-SoAAAAAJ&hl=zh-CN">Sucheng Ren</a><sup>1,3</sup></font>&nbsp;&nbsp;
+                      <font size="3"><a href="https://zhengqigao.github.io/">Zhengqi Gao</a><sup>1,4</sup></font>&nbsp;&nbsp;
+                      <font size="3"><a href="http://people.csail.mit.edu/hangzhao/">Hang Zhao</a><sup>5,1</sup></font>&nbsp;&nbsp;
+
+                    </h2></center>
+                    <center><h2>
+                        <font size="3">1 Shanghai Qizhi Insitute</font>&nbsp;&nbsp;
+                        <font size="3">2 University of Texas at Austin</font>&nbsp;&nbsp;
+                        <font size="3">3 South China University of Technology</font>&nbsp;&nbsp;
+                        <font size="3">4 Massachusetts Institute of Technology</font>&nbsp;&nbsp;
+                        <font size="3">5 Tsinghua University</font>&nbsp;&nbsp;
+                    </h2></center>
+                    <video width="720" height="450" controls>
+                        <source src="./MKE_webpage_demo.mp4" type="video/mp4">
+                        <!-- <source src="movie.ogg" type="video/ogg"> -->
+                        <!-- Your browser does not support the video tag. -->
+                    </video>
+                    <center><h2>
+                    <br>
+                    <br>
+                    </h2></center>
+                </div>
+
+                <div class="content project_headline">
+                    <div class="img" style="text-align:center">
+                        <img class="img_responsive" src="./setting-2.png" alt="setting" style="margin:auto;max-width:90%" width="560" height="270">
+                    </div>
+                    <div class="text">
+                        <p>Figure 1: 
+                            The popularity of multimodal data collection devices and the Internet  engenders a large amount of unlabeled multimodal data. We show two examples above: (a)after a hardware pgrade, lots of unannotated multimodaldata are collected by the new sensor suite;  (b) large-scaleunlabeled videos can be easily obtained from the Internet.
+                            
+                            
+                            <!-- Constructing views for contrastive learning is important. But what are good views? We hypothesize good views should be those that only share label information w.r.t the downstream task, while throwing away nuisance factors, which we call <i>InfoMin</i> principle. -->
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="content">
+                    <div class="text">
+                        <h3>Abstract</h3>
+                        <p>
+                            
+                            
+                            The popularity of multimodal sensors and the accessibility of the Internet have brought us a massive amount of unlabeled multimodal data. Since existing datasets and well-trained models are primarily unimodal, the modality gap between a unimodal network and unlabeled multimodal data poses an interesting problem: how to transfer a pre-trained unimodal network to perform the same task on unlabeled multimodal data? In this work, we propose multimodal knowledge expansion (MKE), a knowledge distillation-based framework to effectively utilize multimodal data without requiring labels. Opposite to traditional knowledge distillation, where the student is designed to be lightweight and inferior to the teacher, we observe that a multimodal student model consistently denoises pseudo labels and generalizes better than its teacher. Extensive experiments on four tasks and different modalities verify this finding. Furthermore, we connect the mechanism of MKE to semi-supervised learning and offer both empirical and theoretical explanations to understand the denoising capability of a multimodal student.
+
+
+                            
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="content">
+                    <div class="text">
+                        <h3>Publication</h3>
+                        <ul>
+                            <li>
+                                <div class="title"><a name="infomin">Multimodal Knowledge Expansion</a></div>
+                                <div class="authors">
+                                    <a href="https://sherryxzh.github.io/">Zihui Xue</a>,
+                                    <a href="https://scholar.google.com/citations?user=Hbf-SoAAAAAJ&hl=zh-CN">Sucheng Ren</a>,
+                                    <a href="https://zhengqigao.github.io/">Zhengqi Gao</a>, and
+                                    <a href="http://people.csail.mit.edu/hangzhao/">Hang Zhao</a>
+                                </div>
+                                <div>
+                                    <span class="tag"><a href="https://arxiv.org/pdf/2103.14431.pdf">Paper</a></span>
+                                    <span class="tag"><a href="https://arxiv.org/abs/2103.14431">arXiv</a></span>
+                                    <span class="tag"><a href="bib.txt">BibTeX</a></span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="content">
+                    <div class="text">
+
+                        <h3>Methods</h3>
+
+
+                        <div class="content project_headline">
+                            <div class="img" style="text-align:center">
+                                <img class="img_responsive" src="./framework.png" alt="Teaser" style="margin:auto;max-width:90%" width="540" height="360">
+                            </div>
+                            <div class="text">
+                                <p>Figure 2: 
+
+                                    Framework of <i>MKE</i>. In <i>knowledge distillation</i>, a cumbersome teacher network is considered as the upper bound of a lightweight student network. Contradictory to that, we introduce a unimodal teacher and a multimodal student. The multimodal student achieves <b>knowledge expansion</b> from the unimodal teacher
+                                    <!-- Schematic of contrastive representation learning with a learned view generator. An input image is split into two views using an invertible view generator. To learn the view generator, we optimize the losses in yellow: minimizing information between views while ensuring we can classify the object from each view. The encoders used to estimate mutual information are always trained to maximize the InfoNCE lower bound. After learning the view generator, we reset the weights of the encoders, and train with a fixed view generator without the additional supervised classification losses. -->
+                                
+                                
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <div class="text">
+                                <h3>Results</h3>
+                                <p>
+                                    
+                                    
+                                We evaluate our method on NYU Depth V2. It contains 1449 RGB-D images with 40-class labels, where 795 RGB images are adopted as Dl for training the UM teacher and the rest 654 RGB-D images are for testing. Besides labeled data, NYU Depth V2 also provides unannotated video sequences, where we randomly extract 1.5K frames of RGB-D images as $D_u$ for training the student. Modality alpha represents RGB images and modality beta denotes depth images.
+        
+                                    
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content project_headline">
+                            <div class="img" style="text-align:center">
+                                <img class="img_responsive" src="./quanti_results.png" alt="Teaser" style="margin:auto;max-width:90%" width="810" height="540">
+                            </div>
+                            <div class="text">
+                                <p>Figure 2: 
+
+                                    Qualitative segmentation results on NYU Depth V2 test set.
+                                    <!-- Schematic of contrastive representation learning with a learned view generator. An input image is split into two views using an invertible view generator. To learn the view generator, we optimize the losses in yellow: minimizing information between views while ensuring we can classify the object from each view. The encoders used to estimate mutual information are always trained to maximize the InfoNCE lower bound. After learning the view generator, we reset the weights of the encoders, and train with a fixed view generator without the additional supervised classification losses. -->
+                                
+                                
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content project_headline">
+                            <div class="img" style="text-align:center">
+                                <img class="img_responsive" src="./results1.png" alt="Teaser" style="margin:auto;max-width:90%" width="720" height="480">
+                            </div>
+                            <div class="text">
+                                <p>Table 1: 
+
+                                    Results of semantic segmentation on NYU Depth V2. Rgb and d denote RGB images and depth images.
+                                    <!-- Schematic of contrastive representation learning with a learned view generator. An input image is split into two views using an invertible view generator. To learn the view generator, we optimize the losses in yellow: minimizing information between views while ensuring we can classify the object from each view. The encoders used to estimate mutual information are always trained to maximize the InfoNCE lower bound. After learning the view generator, we reset the weights of the encoders, and train with a fixed view generator without the additional supervised classification losses. -->
+                                
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+
+    
+
+
+<div id="download_plus_animation"></div></body></html>

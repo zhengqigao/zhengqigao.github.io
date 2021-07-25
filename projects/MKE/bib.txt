@@ -1,0 +1,7 @@
+@article{hua2021feature,
+  title={On Feature Decorrelation in Self-Supervised Learning},
+  author={Hua, Tianyu and Wang, Wenxiao and Xue, Zihui and Wang, Yue and Ren, Sucheng and Zhao, Hang},
+  journal={arXiv e-prints},
+  pages={arXiv--2105},
+  year={2021}
+}
