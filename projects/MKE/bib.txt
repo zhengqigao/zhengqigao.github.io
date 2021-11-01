@@ -1,7 +1,6 @@
-@article{hua2021feature,
-  title={On Feature Decorrelation in Self-Supervised Learning},
-  author={Hua, Tianyu and Wang, Wenxiao and Xue, Zihui and Wang, Yue and Ren, Sucheng and Zhao, Hang},
-  journal={arXiv e-prints},
-  pages={arXiv--2105},
+@article{xue2021multimodal,
+  title={Multimodal Knowledge Expansion},
+  author={Xue, Zihui and Ren, Sucheng and Gao, Zhengqi and Zhao, Hang},
+  journal={arXiv preprint arXiv:2103.14431},
   year={2021}
 }
