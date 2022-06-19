@@ -1,6 +1,0 @@
-@article{xue2021multimodal,
-  title={Multimodal Knowledge Expansion},
-  author={Xue, Zihui and Ren, Sucheng and Gao, Zhengqi and Zhao, Hang},
-  journal={arXiv preprint arXiv:2103.14431},
-  year={2021}
-}
