@@ -26,7 +26,7 @@ Check out my original [https://github.com/zhengqigao/PRML-Solution-Manual soluti
 
 == Selected Publications
 
-=== Machine learning
+==== Machine learning
 
 - [https://arxiv.org/abs/2206.06487 The Modality Focusing Hypothesis: On the Blink of Multimodal Knowledge Distillation] \n
 Zihui Xue, *Zhengqi Gao*, Sucheng Ren, and Hang Zhao \n 
@@ -40,7 +40,7 @@ Zihui Xue, Sucheng Ren, *Zhengqi Gao*, and Hang Zhao \n
 Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, Hang Zhao\n
 / IEEE\/CVF Conference on Computer Vision and Pattern Recognition/ (CVPR 2022) \n
 
-[Design Automation]
+==== Design Automation
 
 - [https://ieeexplore.ieee.org/document/8942174 Efficient Performance Trade-off Modeling for Analog Circuit based on Bayesian Neural Network]  \n
 *Zhengqi Gao*, Jun Tao, Fan Yang, Yangfeng Su, Dian Zhou, and Xuan Zeng \n
