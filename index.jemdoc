@@ -8,16 +8,14 @@ E-mail: [zhengqi@mit.edu]\n
 ~~~
 
 == About me
-Hi, I am a first year PhD student at MIT EECS, advised by Prof. Duane Boning.  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation.
-
-My current research interests lie mainly in design automation for photonic integrated circuits (PICs) and machine learning. Before coming to MIT, I have been very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
+Hi, I am a first year PhD student at MIT EECS, advised by Prof. Duane Boning.  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation.My current research interests lie mainly in design automation for photonic integrated circuits (PICs) and machine learning. Before coming to MIT, I have been very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
 
 ~~~
 {}
 Check out my original [https://github.com/zhengqigao/PRML-Solution-Manual solutional manual] for /Pattern Recognition and Machine Learning/.
 ~~~
 
-== News
+==  News
 - Apr, 2022: Two papers accepted by CVPR.
 - Jul, 2021: MKE is accepted by ICCV (see our  [https://tsinghua-mars-lab.github.io/MKE/ webpage])!
 - May, 2021: Work done with Dr. Ron Rohrer is accepted in IEEE TCAD!
