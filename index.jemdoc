@@ -8,9 +8,9 @@ E-mail: [zhengqi@mit.edu]\n
 ~~~
 
 == About me
-Hi, I am a first year PhD student at MIT EECS, advised by Prof. Duane Boning.  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. [http://homepage.fudan.edu.cn/taojun/en/ Jun Tao] and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of computer-aided design (CAD) for conventinoal integrated circuits (ICs).
+Hi, I am a first year PhD student at MIT EECS, advised by Prof. Duane Boning.  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of computer-aided design (CAD) for integrated circuits (ICs).
 
-My current research interests lie mainly in design automation for photonic integrated circuits (PICs) and machine learning. For the past year, I have been very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
+My current research interests lie mainly in design automation for photonic integrated circuits (PICs) and machine learning. Before coming to MIT, I have been very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
 
 ~~~
 {}
@@ -22,20 +22,13 @@ Check out my original [https://github.com/zhengqigao/PRML-Solution-Manual soluti
 - Nov, 2021: Coming soon: work on design automation of PICs.
 - Oct, 2021: Time-domain adjoint method is submitted to TCAD.
 - Jul, 2021: MKE is accepted by ICCV (see our  [https://tsinghua-mars-lab.github.io/MKE/ webpage])!
-- May, 2021: Work done with Dr. Ron Rohrer is accepted in IEEE TCAD (coming soon)!
-- Apr, 2021: My new trial in the area of computer vision: see our MKE work on [https://arxiv.org/abs/2103.14431 arxiv].
+- May, 2021: Work done with Dr. Ron Rohrer is accepted in IEEE TCAD!
 
+== Selected Publications
 
-== Selected Honors & Awards
-- Outstanding Graduates of Shanghai (Top 5%), 2021.
-- National Scholarship (Top 1%), Fudan Univ., 2020.
-- Rising Star of Academia (11 out of all graduate students marjor in Science & Engineering), Fudan Univ., 2020.
-- Pacemaker to Merit Student (15 out of all graduate students), Fudan Univ., 2019.
-- National 2nd Prize (Top 15%), China Post-Graduate Maths Contest in Modeling, 2018.
-- Outstanding Undergraduates of Shanghai (Top 5%), 2018.
-- Meritorious Winner (Top 13%), American Maths Contest in Modeling, 2017.
-- National 2nd Prize (Top 15%), China Undergraduate Maths Contest in Modeling, 2016.
-- First Prize Scholarship (Top 5%), Fudan Univ., 2015, 2016, 2017, 2019.
+- [https://arxiv.org/abs/2103.14431 Multimodal Knowledge Expansion] \n
+Zihui Xue, Sucheng Ren, *Zhengqi Gao*, and Hang Zhao \n
+/ IEEE International Conference on Computer Vision/ (ICCV 2021) \n
 
 
 
