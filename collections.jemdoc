@@ -8,14 +8,31 @@ This page will be updated irregularly. Hope these might be helpful to you as wel
 - [articles/apply_to_phd.pdf My experiences in applying to EECS Ph.D. programs]
 - [articles/my_checklist_for_writing_paper.pdf My personal checklist when writing an academic paper]
 
-*Online courses available to all*
-- Prof. Gilbert Strang's `Linear Algebra'.
-- Prof. Tom Leighton's `Mathematics for Computer Science'.
-- Prof. Stephen Boyd's `Convex Optimization'.
+*My recommended lectures & books for EECS students*
+
+Linear Algebra, Analysis
+
+- Prof. Gilbert Strang's course `Linear Algebra'.
+- Prof. Tom Leighton's course `Mathematics for Computer Science'.
+- Prof. Stephen Boyd's course `Convex Optimization'.
+- Jorge Nocedal, Stephen J. Wright, 'Numerical Optimization', Springer.
+
+Numerical optimization
+
+- Jorge Nocedal, Stephen J. Wright, 'Numerical Optimization', Springer.
+
+
+Machine learning
+
+- Bishop, 'Pattern Recognition and machine learning'.
 
 *Apply to top EECS Ph.D. programs*
 - Prof. Philip Guo's article `A Five-Minute Guide to Ph.D. Program Applications.'
 - [https://www.quora.com/What-does-the-admissions-committee-process-for-graduate-school-look-like-Do-you-sit-in-a-room-and-all-discuss-the-same-candidate-at-the-same-time-or-is-it-more-of-an-individual-process-with-opinions-aggregated-at-the-end Prof. Scott E. Fahlman's answer on Quora about how admission committes at top schools select students.]
+
+*Why should you become a professor*
+- [https://mitcommlab.mit.edu/eecs/2020/05/18/being-a-professor-is-the-best/ MIT EECS communicaiton lab seminar series]
+
 
 Note: For the above entries without links, please search the key words in Google. The links might not work, or the author/platform requires not to link to it directly. Or simply because there are too many versions of it :-)
 
