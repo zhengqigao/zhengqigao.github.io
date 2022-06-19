@@ -26,9 +26,31 @@ Check out my original [https://github.com/zhengqigao/PRML-Solution-Manual soluti
 
 == Selected Publications
 
+[Machine learning]
+
+- [https://arxiv.org/abs/2206.06487 The Modality Focusing Hypothesis: On the Blink of Multimodal Knowledge Distillation]
+Zihui Xue, Zhengqi Gao, Sucheng Ren, and Hang Zhao \n 
+/ Arxiv Preprint/ \n
+
 - [https://arxiv.org/abs/2103.14431 Multimodal Knowledge Expansion] \n
 Zihui Xue, Sucheng Ren, *Zhengqi Gao*, and Hang Zhao \n
-/ IEEE International Conference on Computer Vision/ (ICCV 2021) \n
+/ IEEE International Conference on Computer Vision/ (ICCV 2021)/ \n
+
+- [https://arxiv.org/abs/2106.12378 Co-advise: Cross Inductive Bias Distillation] \n
+Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, Hang Zhao\n
+/ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)/ \n
+
+[Design Automation]
+
+- [https://ieeexplore.ieee.org/document/8942174 Efficient Performance Trade-off Modeling for Analog Circuit based on Bayesian Neural Network]  \n
+*Zhengqi Gao*, Jun Tao, Fan Yang, Yangfeng Su, Dian Zhou, and Xuan Zeng \n
+/ IEEE\/ACM International Conference on Computer Aided Design/ (ICCAD 2019)
+
+-  [https://ieeexplore.ieee.org/document/8832253 Efficient Parametric Yield Estimation over Multiple Process Corners via Bayesian Inference based on Bernoulli Distribution] \n
+*Zhengqi Gao*, Jun Tao, Dian Zhou, and Xuan Zeng \n
+/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD)
+
+
 
 
 
