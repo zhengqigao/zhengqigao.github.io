@@ -20,6 +20,7 @@ Check out my original [https://github.com/zhengqigao/PRML-Solution-Manual soluti
 ~~~
 
 ==  News
+- Jul, 2022: One paper accepted by ECCV.
 - Apr, 2022: Two papers accepted by CVPR.
 - Jul, 2021: MKE is accepted by ICCV (see our  [https://tsinghua-mars-lab.github.io/MKE/ webpage])!
 - May, 2021: Work done with Dr. Ron Rohrer is accepted in IEEE TCAD!
@@ -27,6 +28,10 @@ Check out my original [https://github.com/zhengqigao/PRML-Solution-Manual soluti
 == Selected Publications
 
 ==== Machine learning
+
+- [Learning from Multiple Annotator Noisy Labels via Sample-wise Label Fusion] \n
+*Zhengqi Gao*, Fan-Keng Sun, Mingran Yang, Sucheng Ren, Zikai Xiong, Marc Engeler, Antonio Burazer, Linda Wildling, Luca Daniel, and Duane. S. Boning\n
+/ European Conference on Computer Vision/ (ECCV 2022) \n
 
 - [https://arxiv.org/abs/2206.06487 The Modality Focusing Hypothesis: On the Blink of Multimodal Knowledge Distillation] \n
 Zihui Xue, *Zhengqi Gao*, Sucheng Ren, and Hang Zhao \n 
@@ -39,10 +44,6 @@ Zihui Xue, *Zhengqi Gao*, Sucheng Ren, and Hang Zhao \n
 - [https://arxiv.org/abs/2106.12378 Co-advise: Cross Inductive Bias Distillation] \n
 Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, Hang Zhao\n
 / IEEE\/CVF Conference on Computer Vision and Pattern Recognition/ (CVPR 2022) \n
-
-- [https://arxiv.org/abs/2103.14431 Multimodal Knowledge Expansion] \n
-Zihui Xue, Sucheng Ren, *Zhengqi Gao*, and Hang Zhao \n
-/ IEEE International Conference on Computer Vision/ (ICCV 2021) \n
 
 ==== Design Automation
 
