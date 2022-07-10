@@ -12,15 +12,16 @@ E-mail: [zhengqi@mit.edu]\n
 ~~~
 
 == About me
-Hi, I am a first year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits (PICs) ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
+Hi, I am a first year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in <u>d</u>esign <u>a</u>utomation for <u>p</u>hotonic integrated circuits (short as PDA) ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
 
 ~~~
 {}
-Check out my original [https://github.com/zhengqigao/PRML-Solution-Manual solutional manual] for /Pattern Recognition and Machine Learning/.
+- [https://github.com/zhengqigao/PRML-Solution-Manual My original solutional manual] for /Pattern Recognition and Machine Learning/.
+- [https://github.com/zhengqigao/Awesome-PDA My collections of useful references on PDA] 
 ~~~
 
 ==  News
-- Jul, 2022: One paper accepted by ECCV.
+- Jul, 2022: One paper accepted by ECCV (see our [https://github.com/zhengqigao/Learning-from-Multiple-Annotator-Noisy-Labels code]).
 - Apr, 2022: Two papers accepted by CVPR.
 - Jul, 2021: MKE is accepted by ICCV (see our  [https://tsinghua-mars-lab.github.io/MKE/ webpage])!
 - May, 2021: Work done with Dr. Ron Rohrer is accepted in IEEE TCAD!
