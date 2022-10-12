@@ -12,7 +12,7 @@ E-mail: [zhengqi@mit.edu]\n
 ~~~
 
 == About me
-Hi, I am a first year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
+Hi, I am a second year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
 
 ~~~
 {}
@@ -31,11 +31,15 @@ Hi, I am a first year PhD student at MIT EECS, advised by [https://boning.mit.ed
 
 ==== Machine learning
 
+- [https://arxiv.org/abs/2209.10098 NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation] \n
+Jiaqi Gu, *Zhengqi Gao*, Chenghao Feng, Hanqing Zhu, Ray T. Chen, Duane S. Boning, David Z. Pan \n
+/ Neurips 2022 \n
+
 - [https://arxiv.org/pdf/2207.11327.pdf Learning from Multiple Annotator Noisy Labels via Sample-wise Label Fusion] \n
 *Zhengqi Gao*, Fan-Keng Sun, Mingran Yang, Sucheng Ren, Zikai Xiong, Marc Engeler, Antonio Burazer, Linda Wildling, Luca Daniel, and Duane. S. Boning\n
 / European Conference on Computer Vision/ (ECCV 2022) \n
 
-- [https://arxiv.org/abs/2206.06487 The Modality Focusing Hypothesis: On the Blink of Multimodal Knowledge Distillation] \n
+- [https://arxiv.org/abs/2206.06487 The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation] \n
 Zihui Xue\*, *Zhengqi Gao\**, Sucheng Ren\*, and Hang Zhao \n 
 / Arxiv Preprint/ (*Equal contribution) \n
 
@@ -48,6 +52,14 @@ Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, 
 / IEEE\/CVF Conference on Computer Vision and Pattern Recognition/ (CVPR 2022) \n
 
 ==== Design Automation
+
+- [https://arxiv.org/abs/2208.14453 Automatic Synthesis of Light Processing Functions for Programmable Photonics: Theory and Realization]\n
+Zhengqi Gao, Xiangfeng Chen, Zhengxing Zhang, Uttara Chakraborty, Wim Bogaerts, Duane S. Boning \n 
+/ Arxiv Preprint/ \n
+
+- [https://ieeexplore.ieee.org/abstract/document/9893366/ Automatic Synthesis of Broadband Silicon Photonic Devices Via Bayesian Optimization] \n
+*Zhengqi Gao*, *Zhengxing Zhang*, Duane S. Boning \n
+IEEE Journal of Lightwave Technology / (IEEE JLT)
 
 - [https://ieeexplore.ieee.org/document/8942174 Efficient Performance Trade-off Modeling for Analog Circuit based on Bayesian Neural Network]  \n
 *Zhengqi Gao*, Jun Tao, Fan Yang, Yangfeng Su, Dian Zhou, and Xuan Zeng \n
