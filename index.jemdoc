@@ -32,8 +32,8 @@ Hi, I am a second year PhD student at MIT EECS, advised by [https://boning.mit.e
 ==== Machine learning
 
 - [https://arxiv.org/abs/2209.10098 NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation] \n
-Jiaqi Gu, *Zhengqi Gao*, Chenghao Feng, Hanqing Zhu, Ray T. Chen, Duane S. Boning, David Z. Pan \n
-/ Neurips 2022 \n
+Jiaqi Gu, *Zhengqi Gao*, Chenghao Feng, Hanqing Zhu, Ray T. Chen, Duane S. Boning, and David Z. Pan \n
+Neurips 2022 \n
 
 - [https://arxiv.org/pdf/2207.11327.pdf Learning from Multiple Annotator Noisy Labels via Sample-wise Label Fusion] \n
 *Zhengqi Gao*, Fan-Keng Sun, Mingran Yang, Sucheng Ren, Zikai Xiong, Marc Engeler, Antonio Burazer, Linda Wildling, Luca Daniel, and Duane. S. Boning\n
@@ -54,12 +54,12 @@ Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, 
 ==== Design Automation
 
 - [https://arxiv.org/abs/2208.14453 Automatic Synthesis of Light Processing Functions for Programmable Photonics: Theory and Realization]\n
-Zhengqi Gao, Xiangfeng Chen, Zhengxing Zhang, Uttara Chakraborty, Wim Bogaerts, Duane S. Boning \n 
+*Zhengqi Gao*, Xiangfeng Chen, Zhengxing Zhang, Uttara Chakraborty, Wim Bogaerts, Duane S. Boning \n 
 / Arxiv Preprint/ \n
 
 - [https://ieeexplore.ieee.org/abstract/document/9893366/ Automatic Synthesis of Broadband Silicon Photonic Devices Via Bayesian Optimization] \n
 *Zhengqi Gao*, *Zhengxing Zhang*, Duane S. Boning \n
-IEEE Journal of Lightwave Technology / (IEEE JLT)
+/ IEEE Journal of Lightwave Technology / (IEEE JLT)
 
 - [https://ieeexplore.ieee.org/document/8942174 Efficient Performance Trade-off Modeling for Analog Circuit based on Bayesian Neural Network]  \n
 *Zhengqi Gao*, Jun Tao, Fan Yang, Yangfeng Su, Dian Zhou, and Xuan Zeng \n
