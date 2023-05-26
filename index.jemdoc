@@ -21,6 +21,9 @@ Hi, I am a second year PhD student at MIT EECS, advised by [https://boning.mit.e
 ~~~
 
 ==  News
+
+This is a queue (FIFO) of length 6.
+
 - Apr, 2023: Presented on [https://www.mtl.mit.edu/events-seminars/seminars/microsystems-mini-technical-symposium-april-2023 MIT MTL Mini Techical Symposium on Integrated Photonics].
 - Apr, 2023: Selected as a [https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program DAC young fellow].
 - Jan, 2023: Our joint work with Prof. Wim Bogaerts has been accepted by Photonics Research, and [files/synthesis_PR23_editor_pick.png highlighted as an Editor's pick].
@@ -48,7 +51,7 @@ Jiaqi Gu, *Zhengqi Gao*, Chenghao Feng, Hanqing Zhu, Ray T. Chen, Duane S. Bonin
 *Zhengqi Gao*, Sucheng Ren, Zihui Xue, and Hang Zhao \n 
 / Arxiv Preprint/ \n
 
-- [https://arxiv.org/abs/2106.12378 Co-advise: Cross Inductive Bias Distillation] \n
+- [https://openaccess.thecvf.com/content/CVPR2022/html/Ren_Co-Advise_Cross_Inductive_Bias_Distillation_CVPR_2022_paper.html Co-advise: Cross Inductive Bias Distillation] \n
 Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, and Hang Zhao\n
 / IEEE\/CVF Conference on Computer Vision and Pattern Recognition/ (CVPR 2022) \n
 
