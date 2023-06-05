@@ -12,7 +12,7 @@ E-mail: [zhengqi@mit.edu]\n
 ~~~
 
 == About me
-Hi, I am a second year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. 
+Hi, I am a second year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Dr. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. I interned at Nvidia and Baidu.
 
 ~~~
 {}
@@ -72,6 +72,10 @@ Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, 
 -  [https://ieeexplore.ieee.org/document/8832253 Efficient Parametric Yield Estimation over Multiple Process Corners via Bayesian Inference based on Bernoulli Distribution] \n
 *Zhengqi Gao*, Jun Tao, Dian Zhou, and Xuan Zeng \n
 / IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD)
+
+- [https://ieeexplore.ieee.org/abstract/document/10138792/ Circuit Theory of Time Domain Adjoint Sensitivity] \n
+Jiahua Li\*, Danyal Ahsanullah\*, *Zhengqi Gao\** and Ron Rohrer \n
+/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD) (*Equal contribution) \n
 
 - [https://ieeexplore.ieee.org/document/9428031/ Efficient Non-Monte-Carlo Yield Estimation] \n
 *Zhengqi Gao* and Ron Rohrer \n
