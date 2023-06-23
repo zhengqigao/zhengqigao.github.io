@@ -58,13 +58,13 @@ Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, 
 
 ==== Design Automation
 
+- [https://arxiv.org/abs/2306.12607 Provable Routing Analysis of Programmable Photonics]
+*Zhengqi Gao*, Xiangfeng Chen, Zhengxing Zhang, Chih-Yu Lai, Uttara Chakraborty, Wim Bogaerts, and Duane S. Boning \n 
+/ Arxiv Preprint /  \n
+
 - [https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-643&id=528691 Automatic Synthesis of Light Processing Functions for Programmable Photonics: Theory and Realization]\n
 *Zhengqi Gao*, Xiangfeng Chen, Zhengxing Zhang, Uttara Chakraborty, Wim Bogaerts, and Duane S. Boning \n 
 / Photonics Research / ([files/synthesis_PR23_editor_pick.png Editor's pick]) \n
-
-- [https://ieeexplore.ieee.org/abstract/document/9893366/ Automatic Synthesis of Broadband Silicon Photonic Devices Via Bayesian Optimization] \n
-*Zhengqi Gao*, Zhengxing Zhang, and Duane S. Boning \n
-/ IEEE Journal of Lightwave Technology / (IEEE JLT)
 
 - [https://ieeexplore.ieee.org/document/8942174 Efficient Performance Trade-off Modeling for Analog Circuit based on Bayesian Neural Network]  \n
 *Zhengqi Gao*, Jun Tao, Fan Yang, Yangfeng Su, Dian Zhou, and Xuan Zeng \n
