@@ -36,6 +36,10 @@ This is a queue (FIFO) of length 7.
 
 ==== Machine learning
 
+- [https://openreview.net/forum?id=ljgM3vNqfQ&noteId=TIVmz8giyx Nominality Score Conditioned Time Series Anomaly Detection by Point/Sequential Reconstruction] \n
+Chih-Yu Lai, Fan-Keng Sun, *Zhengqi Gao*, Jeffrey Lang, and Duane S Boning \n 
+/ Conference on Neural Information Processing Systems / (Neurips 2023) \n
+
 - [https://arxiv.org/abs/2206.06487 The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation] \n
 Zihui Xue\*, *Zhengqi Gao\**, Sucheng Ren\*, and Hang Zhao \n 
 / International Conference on Learning Representations / (ICLR 2023, top 5%, oral) (*Equal contribution) \n
@@ -47,10 +51,6 @@ Zihui Xue\*, *Zhengqi Gao\**, Sucheng Ren\*, and Hang Zhao \n
 - [https://arxiv.org/abs/2209.10098 NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation] \n
 Jiaqi Gu, *Zhengqi Gao*, Chenghao Feng, Hanqing Zhu, Ray T. Chen, Duane S. Boning, and David Z. Pan \n
 / Conference on Neural Information Processing Systems / (Neurips 2022) \n
-
-- [https://arxiv.org/pdf/2204.02485.pdf Training-Free Robust Multimodal Learning via Sample-Wise Jacobian Regularization] \n
-*Zhengqi Gao*, Sucheng Ren, Zihui Xue, and Hang Zhao \n 
-/ Arxiv Preprint/ \n
 
 - [https://openaccess.thecvf.com/content/CVPR2022/html/Ren_Co-Advise_Cross_Inductive_Bias_Distillation_CVPR_2022_paper.html Co-advise: Cross Inductive Bias Distillation] \n
 Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, and Hang Zhao\n
