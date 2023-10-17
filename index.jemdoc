@@ -12,20 +12,20 @@ E-mail: [zhengqi@mit.edu]\n
 ~~~
 
 == About me
-Hi, I am a third year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Prof. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. I interned at Baidu, Shanghai Qizhi Insitutte, and Nvidia. I am looking for interns and collaborators working on projects in the following areas, please shoot me an email if interested:
-
-- rare event estimation with novel deep generative models
-- theoretical analysis of diffractive optical neural network
-- algorithms for programmable photonic circuit 
-
+Hi, I am a third year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Prof. [https://www.smu.edu/Lyle/Departments/ECE/People/Faculty/RohrerRon Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. I interned at Baidu, Shanghai Qizhi Insitutte, and Nvidia.
 ~~~
 {}
 - Check out [https://github.com/zhengqigao/PRML-Solution-Manual my original solutional manual] for /Pattern Recognition and Machine Learning/ (Github ~900 stars).
 - Check out [https://github.com/zhengqigao/Awesome-PDA my comprehensive collections] of useful references (books, papers, etc.) on photonic design automation. 
 ~~~
 
-{{<font color=red><b>}}Pinned{{</b></font>}}: I commit 1\~2 hours every week to provide guidance, suggestions, and/or mentorships for students from underrepresented groups or whoever is in need, inspried by [https://hanruiwang.mit.edu Hanrui Wang]. Please fill in [https://forms.gle/rQ1P5fZcNn1EBjy78 this form] if you are interested.
+{{<font color=red><b>}}Pin1{{</b></font>}}: I commit 1\~2 hours every week to provide guidance, suggestions, and/or mentorships for students from underrepresented groups or whoever is in need, inspried by [https://hanruiwang.mit.edu Hanrui Wang]. Please fill in [https://forms.gle/rQ1P5fZcNn1EBjy78 this form] if you are interested.
 
+{{<font color=red><b>}}Pin2{{</b></font>}}: I am looking for interns and collaborators working on projects in the following areas, please shoot me an [zhengqi@mit.edu email] if interested:
+
+- rare event estimation with novel deep generative models
+- theoretical analysis of diffractive optical neural network
+- algorithms for programmable photonic circuit 
 
 
 
