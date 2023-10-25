@@ -23,6 +23,7 @@ Hi, I am a third year PhD student at MIT EECS, advised by [https://boning.mit.ed
 
 {{<font color=red><b>}}Pin2{{</b></font>}}: I am looking for interns and collaborators working on projects in the following areas, please shoot me an [zhengqi@mit.edu email] if interested:
 
+- Follow-ups of [https://arxiv.org/abs/2310.15872 KirchhoffNet] (especially hardware fabrication)
 - Rare event probability estimation with novel deep generative models
 - Theoretical analysis of diffractive optical neural network
 - Algorithms for programmable photonic circuit 
