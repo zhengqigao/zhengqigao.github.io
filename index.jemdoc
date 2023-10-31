@@ -46,8 +46,12 @@ This is a queue (FIFO) of length 7.
 
 ==== Machine learning
 
-- [https://openreview.net/forum?id=ljgM3vNqfQ&noteId=TIVmz8giyx Nominality Score Conditioned Time Series Anomaly Detection by Point\/Sequential Reconstruction] \n
-Chih-Yu Lai, Fan-Keng Sun, *Zhengqi Gao*, Jeffrey Lang, and Duane S Boning \n 
+- [https://arxiv.org/pdf/2310.19167.pdf Rare Event Probability Learning by Normalizing Flows] \n 
+Zhengqi Gao, Dinghuai Zhang, Luca Daniel, and Duane S. Boning \n
+/ Arxiv Preprint /  \n
+
+- [https://arxiv.org/pdf/2310.15416.pdf Nominality Score Conditioned Time Series Anomaly Detection by Point\/Sequential Reconstruction] \n
+Chih-Yu Lai, Fan-Keng Sun, *Zhengqi Gao*, Jeffrey Lang, and Duane S. Boning \n 
 / Conference on Neural Information Processing Systems / (Neurips 2023) \n
 
 - [https://arxiv.org/abs/2206.06487 The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation] \n
@@ -85,7 +89,7 @@ Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, 
 / IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD)
 
 - [https://ieeexplore.ieee.org/abstract/document/10138792/ Circuit Theory of Time Domain Adjoint Sensitivity] \n
-Jiahua Li\*, Danyal Ahsanullah\*, *Zhengqi Gao\** and Ron Rohrer \n
+Jiahua Li\*, Danyal Ahsanullah\*, *Zhengqi Gao\**, and Ron Rohrer \n
 / IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD) (*Equal contribution) \n
 
 - [https://ieeexplore.ieee.org/document/9428031/ Efficient Non-Monte-Carlo Yield Estimation] \n
