@@ -24,7 +24,7 @@ Hi, I am a third year PhD student at MIT EECS, advised by [https://boning.mit.ed
 {{<font color=red><b>}}Pin2{{</b></font>}}: I am looking for interns and collaborators working on projects in the following areas, please shoot me an [zhengqi@mit.edu email] if interested:
 
 - Follow-ups of [https://arxiv.org/abs/2310.15872 KirchhoffNet] (especially hardware fabrication)
-- Rare event probability estimation with novel deep generative models
+- [https://arxiv.org/pdf/2310.19167.pdf Rare event probability estimation] with novel deep generative models
 - Theoretical analysis of diffractive optical neural network
 - Algorithms for programmable photonic circuit 
 
@@ -47,7 +47,7 @@ This is a queue (FIFO) of length 7.
 ==== Machine learning
 
 - [https://arxiv.org/pdf/2310.19167.pdf Rare Event Probability Learning by Normalizing Flows] \n 
-Zhengqi Gao, Dinghuai Zhang, Luca Daniel, and Duane S. Boning \n
+*Zhengqi Gao*, Dinghuai Zhang, Luca Daniel, and Duane S. Boning \n
 / Arxiv Preprint /  \n
 
 - [https://arxiv.org/pdf/2310.15416.pdf Nominality Score Conditioned Time Series Anomaly Detection by Point\/Sequential Reconstruction] \n
