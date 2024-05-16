@@ -12,7 +12,7 @@ E-mail: [zhengqi@mit.edu]\n
 ~~~
 
 == About me
-Hi, I am a third year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Prof. [https://www.ece.cmu.edu/directory/bios/rohrer-ronald.html Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. I interned at Baidu, Shanghai Qizhi Insitutte, and Nvidia. My research was recognized by an editor's highlight in Photonics Research 2023, an ICLR'23 oral paper (top 5%), and the [https://www.cie.org.cn/list_43/4373.html Biren scholarship] (1 out of 3 nationwide) in 2020, among a few others.
+Hi, I am a third year PhD student at MIT EECS, advised by [https://boning.mit.edu/ Prof. Duane S. Boning].  Previously, I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, where I worked closely with Prof. Jun Tao and Prof. [https://ece.duke.edu/faculty/xin-li Xin Li] (Duke Univ.) in the area of electronic design automation. My current research interests lie mainly in design automation for photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]) and machine learning. In the summer before coming to MIT, I was very lucky to work with Prof. [https://www.ece.cmu.edu/directory/bios/rohrer-ronald.html Ron Rohrer] on the adjoint method and Prof. [http://people.csail.mit.edu/hangzhao/ Hang Zhao] on multimodal learning. I interned at Baidu, Shanghai Qizhi Insitute, and Nvidia. My research has been recognized with several honors, including being named an [https://mlcommons.org/about-us/programs/ ML and Systems Rising Star] in 2024, an editor's highlight in Photonics Research 2023, an ICLR'23 oral paper (top 5%), and the [https://www.cie.org.cn/list_43/4373.html Biren scholarship] (1 out of 3 nationwide) in 2020, among a few others.
 ~~~
 {}
 - Check out [https://github.com/zhengqigao/PRML-Solution-Manual my original solutional manual] for /Pattern Recognition and Machine Learning/ (Github 900+ stars).
@@ -69,9 +69,9 @@ Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, 
 
 ==== Design Automation
 
-- [https://arxiv.org/abs/2306.12607 Provable Routing Analysis of Programmable Photonics] \n
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10491250 Provable Routing Analysis of Programmable Photonics] \n
 *Zhengqi Gao*, Xiangfeng Chen, Zhengxing Zhang, Chih-Yu Lai, Uttara Chakraborty, Wim Bogaerts, and Duane S. Boning \n 
-/ Arxiv Preprint /  \n
+/ IEEE Journal of Lightwave Technology  /  \n
 
 - [https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-643&id=528691 Automatic Synthesis of Light Processing Functions for Programmable Photonics: Theory and Realization]\n
 *Zhengqi Gao*, Xiangfeng Chen, Zhengxing Zhang, Uttara Chakraborty, Wim Bogaerts, and Duane S. Boning \n 
