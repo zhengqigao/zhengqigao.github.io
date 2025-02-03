@@ -43,7 +43,7 @@ This is a queue (FIFO) of length 9.
 ==== Machine learning
 
 - [https://arxiv.org/abs/2501.18865 REG: Rectified Gradient Guidance for Conditional Diffusion Models] \n
-Zhengqi Gao, Kaiwen Zha, Tianyuan Zhang, Zihui Xue, Duane S. Boning \n 
+*Zhengqi Gao*, Kaiwen Zha, Tianyuan Zhang, Zihui Xue, Duane S. Boning \n 
 / Arxiv Preprint / \n
 
 - [https://arxiv.org/pdf/2310.15416.pdf Nominality Score Conditioned Time Series Anomaly Detection by Point\/Sequential Reconstruction] \n
