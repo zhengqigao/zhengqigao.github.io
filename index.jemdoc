@@ -42,9 +42,9 @@ This is a queue (FIFO) of length 10.
 
 ==== Machine learning
 
-- [https://arxiv.org/pdf/2505.15034 RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning]
+- [https://arxiv.org/pdf/2505.15034 RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning] \n
 Kaiwen Zha, *Zhengqi Gao*, Maohao Shen, Zhang-Wei Hong, Duane S. Boning, Dina Katabi \n 
-/ Arxiv / \n
+/ Arxiv Prepint 2025 / \n
 
 - [https://arxiv.org/abs/2501.18865 REG: Rectified Gradient Guidance for Conditional Diffusion Models] \n
 *Zhengqi Gao*, Kaiwen Zha, Tianyuan Zhang, Zihui Xue, Duane S. Boning \n 
