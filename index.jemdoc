@@ -50,10 +50,6 @@ Kaiwen Zha\*, *Zhengqi Gao\**, Maohao Shen, Zhang-Wei Hong, Duane S. Boning, Din
 *Zhengqi Gao*, Kaiwen Zha, Tianyuan Zhang, Zihui Xue, Duane S. Boning \n 
 / International Conference on Machine Learning  / (ICML 2025) \n
 
-- [https://arxiv.org/pdf/2310.15416.pdf Nominality Score Conditioned Time Series Anomaly Detection by Point\/Sequential Reconstruction] \n
-Chih-Yu Lai, Fan-Keng Sun, *Zhengqi Gao*, Jeffrey Lang, and Duane S. Boning \n 
-/ Conference on Neural Information Processing Systems / (Neurips 2023) \n
-
 - [https://arxiv.org/abs/2206.06487 The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation] \n
 Zihui Xue\*, *Zhengqi Gao\**, Sucheng Ren\*, and Hang Zhao \n 
 / International Conference on Learning Representations / (ICLR 2023, top 5%, oral) (*Equal contribution) \n
@@ -72,13 +68,17 @@ Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, 
 
 ==== Design Automation
 
+- [https://arxiv.org/abs/2511.12033 EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation] \n 
+Jiahe Shi, *Zhengqi Gao*, Ching-Yun Ko, and Duane S. Boning \n
+/Arxiv 2025/
+
+- [https://ieeexplore.ieee.org/document/11123599 SPIPE: Differentiable SPICE-Level Co-Simulation Program for Integrated Photonics and Electronics] \n
+*Zhengqi Gao*, Jiaqi Gu, Luca Daniel, Ron Rohrer, and Duane S. Boning \n 
+/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/
+
 - [https://arxiv.org/abs/2310.15872 KirchhoffNet: A Scalable Ultra Fast Analog Neural Network] \n
 *Zhengqi Gao*, Fan-Keng Sun, Ron Rohrer, and Duane S. Boning \n 
 / IEEE\/ACM International Conference on Computer Aided Design/ (ICCAD 2024) ([articles/what_is_kirchhoffnet.pdf common Q&A], [articles/kirchhoffnet.pdf poster])
-
-- [https://ieeexplore.ieee.org/abstract/document/10530318 Gradient-Based Power Efficient Functional Synthesis for Programmable Photonic Circuits] \n 
-*Zhengqi Gao*, Xiangfeng Chen, Zhengxing Zhang, Uttara Chakraborty, Wim Bogaerts, and Duane S. Boning \n 
-/ IEEE Journal of Lightwave Technology  /  \n
 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10491250 Provable Routing Analysis of Programmable Photonics] \n
 *Zhengqi Gao*, Xiangfeng Chen, Zhengxing Zhang, Chih-Yu Lai, Uttara Chakraborty, Wim Bogaerts, and Duane S. Boning \n 
@@ -94,16 +94,11 @@ Sucheng Ren, *Zhengqi Gao*, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, 
 
 -  [https://ieeexplore.ieee.org/document/8832253 Efficient Parametric Yield Estimation over Multiple Process Corners via Bayesian Inference based on Bernoulli Distribution] \n
 *Zhengqi Gao*, Jun Tao, Dian Zhou, and Xuan Zeng \n
-/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD)
+/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/
 
 - [https://ieeexplore.ieee.org/abstract/document/10138792/ Circuit Theory of Time Domain Adjoint Sensitivity] \n
 Jiahua Li\*, Danyal Ahsanullah\*, *Zhengqi Gao\**, and Ron Rohrer \n
-/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD) (*Equal contribution) \n
-
-- [https://ieeexplore.ieee.org/document/9428031/ Efficient Non-Monte-Carlo Yield Estimation] \n
-*Zhengqi Gao* and Ron Rohrer \n
-/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (IEEE TCAD)
-
+/ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems/ (*Equal contribution) ([https://cseweb.ucsd.edu/classes/sp24/cse291-e/ used in UCSD CSE 291E]) \n
 
 
 For a full publication list, please see my [https://scholar.google.com/citations?user=igvvVY4AAAAJ&hl=en google scholar page].
