@@ -11,7 +11,7 @@ E-mail: [mailto:zqgao18@gmail.com zqgao18@gmail.com]\n
 ~~~
 
 == About me
-Hi, I am Zhengqi, currently a Research Engineer at Google DeepMind, where I work on AI for chip design (e.g., EDA tools, evaluation, and RL post-training). I am also an incoming Assistant Professor in the Department of Electrical and Computer Engineering at the University of Michigan (start date deferred). I received my PhD from MIT EECS in May 2026. I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, in 2021 and 2018, respectively. My current research interests lie mainly in design automation for electronic and photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]), and machine learning. I interned at Baidu, Shanghai Qizhi AI Insitute, Nvidia Research, and Apple. My research is interdisciplinary in nature, and has been recognized across multiple domains—for example, in EDA, I received first place in the ACM/IEEE DAC’25 PhD Forum and the [https://www.cie.org.cn/list_43/4373.html Biren scholarship] (1 of 3 nationwide) in 2020; in Photonics, my work was selected as Editor’s Highlights by Optica Express (2024) and Photonics Research (2023); and in ML, I was named an [https://mlcommons.org/2024/06/2024-mlc-rising-stars/ ML and Systems Rising Star] in 2024, among a few others.
+Hi, I am Zhengqi, currently a Research Engineer at Google DeepMind, where I work on AI for chip design (e.g., EDA tools, evaluation, and RL post-training). I am also an incoming Assistant Professor in the Department of Electrical and Computer Engineering at the University of Michigan (start date deferred). I received my PhD from MIT EECS in May 2026. I obtained my M.S. and B.E. from School of Microelectronics, Fudan University, in 2021 and 2018, respectively. My current research interests lie mainly in design automation for electronic and photonic integrated circuits ([articles/Introduction_to_Photonic_Design_Automation.pdf What is it?]), and machine learning. I interned at Baidu, Shanghai Qizhi AI Institute, Nvidia Research, and Apple. My research is interdisciplinary in nature, and has been recognized across multiple domains—for example, in EDA, I received first place in the ACM/IEEE DAC’25 PhD Forum and the [https://www.cie.org.cn/list_43/4373.html Biren scholarship] (1 of 3 nationwide) in 2020; in Photonics, my work was selected as Editor’s Highlights by Optica Express (2024) and Photonics Research (2023); and in ML, I was named an [https://mlcommons.org/2024/06/2024-mlc-rising-stars/ ML and Systems Rising Star] in 2024, among a few others.
 
 ~~~
 {}
@@ -25,16 +25,16 @@ Hi, I am Zhengqi, currently a Research Engineer at Google DeepMind, where I work
 
 This is a queue (FIFO) of length 10.
 
+- Oct, 2026: Joined Google DeepMind as a Research Engineer, working on AI for chip design.
 - May, 2026: I received my PhD from MIT EECS, and will join Anthropic as a STEM Fellow.
 - Jun, 2025: Awarded the first place in DAC'25 PhD forum. 
 - May, 2025: [https://arxiv.org/abs/2501.18865 One paper on diffusion] is accepted by ICML 2025. Will do an internship with Apple AR/VR display.
 - May, 2024: Named as an [https://mlcommons.org/about-us/programs/ ML and Systems Rising Star].
 - Jan, 2024: Won the Best Pitch Award at MIT MTL student conference MARC 2024.
 - Jun, 2023: Ranked 2nd in [https://eval.ai/web/challenges/challenge-page/1625/leaderboard/3911 CVPR'23 TTM Challenge].
-- Apr, 2023: Presented on [https://www.mtl.mit.edu/events-seminars/seminars/microsystems-mini-technical-symposium-april-2023 MIT MTL Mini Techical Symposium on Integrated Photonics].
+- Apr, 2023: Presented on [https://www.mtl.mit.edu/events-seminars/seminars/microsystems-mini-technical-symposium-april-2023 MIT MTL Mini Technical Symposium on Integrated Photonics].
 - Apr, 2023: Selected as a [https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program DAC young fellow].
 - Jan, 2023: Our joint work with Prof. Wim Bogaerts has been accepted by Photonics Research, and [files/synthesis_PR23_editor_pick.png highlighted as an Editor's pick].
-- Jan, 2023: One paper is accepte by ICLR 2023 (top 5%, oral); see our [https://zihuixue.github.io/MFH/index.html webpage].
 
 == Selected Publications
 
