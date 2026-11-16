@@ -15,7 +15,7 @@ Hi, I am Zhengqi, currently a Research Engineer at Google DeepMind, where I work
 
 ~~~
 {}
-- {{<span style="color:red;"><b>Pinned:</b> Frontier LLM agents can rebuild open-source EDA tools from scratch in Rust, 2&ndash;13&times; faster than ABC/Ngspice/OpenSTA. <a href="articles/eda_tokenmaxxing_paper.pdf" style="color:red; text-decoration:underline;">Read the paper</a>.</span>}
+- {{<span style="color:red;"><b>Pinned:</b> LLM agents just rewrote the open-source EDA toolchain in Rust, 2&ndash;13&times; faster than ABC/Ngspice/OpenSTA. <a href="articles/eda_tokenmaxxing_paper.pdf" style="color:red; text-decoration:underline;">Read the paper</a>.</span>}
 - Check out [https://github.com/zhengqigao/PRML-Solution-Manual my original solutional manual] for /Pattern Recognition and Machine Learning/ (Github 1K stars).
 - Check out [https://github.com/zhengqigao/Awesome-PDA my comprehensive collections] of useful references (books, papers, etc.) on photonic design automation. 
 - Check out [https://sites.google.com/view/optsys/home?authuser=1 our OptSys Seminar series], where we invite experts on photonics to give talks monthly.
